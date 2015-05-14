@@ -1,0 +1,103 @@
+[
+  {
+    "description": "Version1|Search|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 10136
+  },
+  {
+    "description": "Version1|Home|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 7832
+  },
+  {
+    "description": "Version1|Menu|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 14681
+  },
+  {
+    "description": "Version1|Category_Page|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 5572
+  },
+  {
+    "description": "Version1|Product_Page|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 6980
+  },
+  {
+    "description": "Version1|Search|iPhone|8.0",
+    "assertions": [],
+    "duration": 66880
+  },
+  {
+    "description": "Version1|Home|iPhone|8.0",
+    "assertions": [],
+    "duration": 66039
+  },
+  {
+    "description": "Version1|Menu|iPhone|8.0",
+    "assertions": [],
+    "duration": 11835
+  },
+  {
+    "description": "Version1|Category_Page|iPhone|8.0",
+    "assertions": [],
+    "duration": 4544
+  },
+  {
+    "description": "Version1|Product_Page|iPhone|8.0",
+    "assertions": [],
+    "duration": 5898
+  },
+  {
+    "description": "Version2|Search|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 10136
+  },
+  {
+    "description": "Version2|Home|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 7832
+  },
+  {
+    "description": "Version2|Menu|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 14681
+  },
+  {
+    "description": "Version2|Category_Page|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 5572
+  },
+  {
+    "description": "Version2|Product_Page|Samsung Galaxy Nexus|4.3",
+    "assertions": [],
+    "duration": 6980
+  },
+  {
+    "description": "Version2|Search|iPhone|8.0",
+    "assertions": [],
+    "duration": 66880
+  },
+  {
+    "description": "Version2|Home|iPhone|8.0",
+    "assertions": [],
+    "duration": 66039
+  },
+  {
+    "description": "Version2|Menu|iPhone|8.0",
+    "assertions": [],
+    "duration": 11835
+  },
+  {
+    "description": "Version2|Category_Page|iPhone|8.0",
+    "assertions": [],
+    "duration": 4544
+  },
+  {
+    "description": "Version2|Product_Page|iPhone|8.0",
+    "assertions": [],
+    "duration": 5898
+  }
+]
+
