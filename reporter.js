@@ -107,6 +107,17 @@ function generateReport(jsonstr, automationHeader) {
         }
     }
 
+    for (var t = 0; t < testArray.length; t++) {
+            if (testArray[t].res == "false") {
+                failedArray.push({
+                    version: testArray[t].theme,
+                    testName: testArray[t].testName,
+                    browser: testArray[t].browser
+                });
+            }
+        }
+        fs.writeFileSync('./retry.js', JSON.stringify(failedArray));
+
     var resultq = groupBy(testArray, function(item) {
         return [item.theme];
     });
