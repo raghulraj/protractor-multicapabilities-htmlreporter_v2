@@ -85,7 +85,8 @@ function generateReport(jsonstr, automationHeader) {
         testArray.push({
             theme: jsonstr[q].description.split('|')[0],
             testName: jsonstr[q].description.split('|')[1],
-            browser: browsername,
+            specFile: jsonstr[q].description.split('|')[4]
+	    browser: browsername,
             res: passed
         });
     }
@@ -112,6 +113,7 @@ function generateReport(jsonstr, automationHeader) {
                 failedArray.push({
                     version: testArray[t].theme,
                     testName: testArray[t].testName,
+		    specFile: testArray[t].specFile,
                     browser: testArray[t].browser
                 });
             }
